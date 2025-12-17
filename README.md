@@ -247,7 +247,7 @@ Hiring and termination trends show fluctuations over time.
 
 ## Dashboard Preview
 
-![screenshort]()
+![screenshort](https://github.com/ritik168/HR-Analytics-Dashboard---Workforce-Hiring-Attrition-Analysis/blob/main/Screenshot%202025-12-16%20235647.png)
 
 
 ## Project End.
