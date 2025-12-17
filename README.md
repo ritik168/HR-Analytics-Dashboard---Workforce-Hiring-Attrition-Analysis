@@ -1,4 +1,4 @@
-# HR Analytics Dashboard - Workforce Hiring Attrition Analysis
+# HR Analytics Dashboard-Workforce Hiring Attrition Analysis
 
 
 ## 📌 Project Title
